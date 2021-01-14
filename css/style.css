@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    padding-top: 30px;
+}
+
+ul li a{
+    padding-left: 30px !important;
+}
+
+.top-section{
+    background-color: #FFFFF4;
+    height: 600px;
+}
+
+.top-section h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+.backpack, .new{
+    color: #363958;
+}
+
+.moon, .arrival{
+    color: #76C27E;
+}
+
+.new, .arrival{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+
+.buy-now{
+    padding: 15px 25px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #2A1E59;
+    margin-top: 15px;
+}
+
+.buy-now:hover{
+    background-color: #76C27E;
+}
+
+.commerce-section{
+    margin-top: 100px;
+}
+
+.commerce-bg{
+    width: 600px;
+    margin-left: 70px;
+}
+
+.commerce-rounded{
+    border-radius: 20px;
+}
+
+.backpack{
+    margin-top: 100px;
+}
+
+.section-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: #363958;
+    margin-bottom: 40px;
+}
+
+.product{
+    padding: 20px;
+    border: 0;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.product img{
+    background-color: #F1F1F1;
+    padding: 40px;
+    border-radius: 30px;
+}
+
+.card-footer{
+    border: 0;background-color: white;
+}
+
+.card-footer h2{
+    color: #76C27E;
+    font-weight: bold;
+}
+
+.card-footer button{
+    border: 0;
+    background-color: #2A1E59;
+}
+
+.card-footer button:hover{
+    background-color: #76C27E;
+}
+
+.bottom-section{
+    margin-top: 100px;
+    background-color: #FFFFF4;
+}
+
+.bottom-details{
+    border: 2px solid salmon;
+}
