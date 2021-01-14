@@ -50,7 +50,7 @@ ul li a{
 }
 
 .commerce-bg{
-    width: 600px;
+    width: 85%;
     margin-left: 70px;
 }
 
@@ -94,6 +94,7 @@ ul li a{
 .card-footer button{
     border: 0;
     background-color: #2A1E59;
+    border-radius: 8px;
 }
 
 .card-footer button:hover{
